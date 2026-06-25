@@ -17,6 +17,6 @@
 5. Most of all, I will enjoy the subject.
    
 ## To know me more..
-I am Eddison C. Abragan ; I am a 4th-year student currently studying BSIT. I am interested in technology such as networking, web technology, database management, etc. All of the information given here in my portfolio will include my activities and projects. Thank you!
+I am Eddison C. Abragan, i am a 4th-year student currently studying BSIT. I am interested in technology such as networking, web technology, database management, etc. All of the information given here in my portfolio will include my activities and projects. Thank you!
 
 
